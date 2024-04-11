@@ -1,0 +1,548 @@
+
+
+.bg-container{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3px;
+}
+
+
+.nav{
+display: flex;
+background-color: white;
+height: 10%;
+width: 100vw;
+justify-content: right;
+align-items: center;
+position: absolute;
+top: 0%;
+background-color: ghostwhite;
+}
+.button{
+    color: black;
+    height: 30px;
+    width: 130px;
+    padding: 2px;
+    margin: 2px;
+font-family: sans-serif;
+font-size: medium;
+font-weight: bold;
+font-style: normal;
+border: transparent;
+background-color: transparent;
+float: right;
+}
+.main-logo{
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    height: 15%;
+    width: 30%;
+border: 5px double white;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+    }
+.logo{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+.logo-name{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: x-large;
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: 2px double white;
+    margin: 5px;
+}
+
+.logo-name2{
+    background-color:white;
+    color: black;
+    height: 50px;
+    width: 150px;
+    font-size: x-large;
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: 2px double white;
+    margin: 5px;
+}
+
+.card-section-one{
+    position: absolute;
+    height: 30%;
+    width: 100%;
+bottom: 0%;
+display: flex;
+justify-content: space-around;
+margin: 2px;
+}
+
+.all-locations-card{
+    margin-top: 10px;
+    padding: 5px;
+height: 23vh;
+width: 20vw;
+text-align: center;
+background-color: white;
+border-radius: 5px;
+box-shadow: 2px 2px 5px 5px gold;
+}
+
+.pick-up-and-drop-card{
+    margin-top: 10px;
+    padding: 5px;
+    height: 23vh;
+    width: 20vw;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 5px gold;
+    }
+    .duration-card{
+        margin-top: 10px;
+        padding: 5px;
+        height: 23vh;
+        width: 20vw;
+        text-align: center;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 2px 2px 5px 5px gold;
+        }
+        .support-card{
+            margin-top: 10px;
+            padding: 5px;
+           height: 25vh;
+            width: 20vw;
+            text-align: center;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px 5px gold;
+            }
+    .self-driven-cars-section{
+        height: 100vh;
+        width: 100%;
+        background-color:white;
+        justify-content: center;
+     }
+
+     .second-section{
+        height: 50%;
+        width: 100vw;
+    padding: 3px;
+     }
+   
+
+.second-sub{
+    height: 50%;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+    margin-top: 4px;
+    }
+.one-card{
+height: 50%;
+width: 25vw;
+border-radius: 15px;
+box-shadow: 2px 2px 2px 2px black;
+}
+.img-card{
+    background-image: url("https://www.jodogoairportassist.com/main/assets/images/blog/india/top-10-tourist-places-to-visit-in-india-2.webp");
+    height: 100%;
+    background-size: cover;
+border-radius: 15px;
+position:relative;
+}
+.img-card-button{
+    position: absolute;
+    top: 0%;
+    left:2%;
+    background-color: white;
+    font-weight: bolder;
+    font-size: larger;
+    border: transparent;
+    border-radius: 5px;
+}
+.img-card-2{
+    background-image: url("https://cdn.tripways.com/2020/11/07094043/golden-temple-3.jpg");
+    height: 100%;
+    background-size: cover;
+border-radius: 15px;
+position:relative;
+
+}
+.img-card-button-2{
+    position: absolute;
+    top: 0%;
+    left:2%;
+    background-color: white;
+    font-weight: bolder;
+    font-size: larger;
+    border: transparent;
+    border-radius: 5px;
+}
+
+
+.img-card-3{
+    background-image: url("https://www.theindiatourism.com/images/Coimbatore.jpg");
+    height: 100%;
+    background-size: cover;
+border-radius: 15px;
+position:relative;
+
+}
+.img-card-4{
+    background-image: url("https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Lepakshi_10th-jan.jpg");
+    height: 100%;
+    background-size: cover;
+border-radius: 15px;
+position:relative;
+
+}
+
+
+.img-card-5{
+    background-image: url("https://img.oastatic.com/img2/64356635/420x237r/variant.jpg");
+    height: 100%;
+    background-size: cover;
+border-radius: 15px;
+position:relative;
+
+}
+
+.img-card-6{
+    background-image: url("https://static.javatpoint.com/tourist-places/images/tourist-places-in-andhra-pradesh3.jpg");
+    height: 100%;
+    background-size: cover;
+border-radius: 15px;
+position:relative;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Hatchback-section{
+    background-color:black;
+    height: 80vh;
+    background-size: cover;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 1;
+    justify-content: space-around;
+    align-content: center;
+
+}
+
+.hatchback-card{
+    height: 70vh;
+    width: 25vw;
+    border: 2px solid white;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px black;
+    margin: 2px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+}
+.hatchback-img-card{
+    height: 25vh;
+    width: 25vw;
+}
+
+.car-icons{
+    display: flex;
+    justify-content: space-around;
+    margin-top:10px;
+}
+
+.span{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3px;
+}
+.book-now{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+.suv-section{
+    
+    background-color:black;
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 1;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.suv-card{
+    height: 70vh;
+    width: 25vw;
+    border: 2px solid white;
+    text-align: center;
+    margin: 2px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+
+}
+.suv-img-card{
+    height: 25vh;
+    width: 25vw;
+    
+}
+
+.car-name{
+    height: 40px;
+    width: 180px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    background-color:green;
+    color: white;
+    border-radius: 5px;
+    margin-top: 3px;
+    border: transparent;
+}
+.Book-now-button{
+    height: 40px;
+    width: 180px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    border: transparent;
+    color:white;
+    border-radius: 5px;
+    margin-top: 3px;
+    background-color: goldenrod;
+}
+
+
+.mpv-section{
+    background-color:black;
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 1;
+    justify-content: space-around;
+    align-content: center;
+
+}
+
+.mpv-card{
+    height: 70vh;
+    width: 25vw;
+    border: 2px solid white;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px white;
+    margin: 2px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+
+}
+.mpv-img-card{
+    height: 25vh;
+    width: 25vw;
+    
+}
+
+.hatchback{
+    height: 100vh;
+    width: 100vw;
+}
+.intro{
+    height: 15vh;
+    width: 100vw;
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.suv{
+    height: 100vh;
+    width: 100vw;   
+}
+
+.mpv{
+    height: 100vh;
+    width: 100vw;   
+
+}
+
+.input{
+    width: 100%;
+    height: 50%;
+    border-radius: 5px;
+}
+
+.contact{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    background-size: cover;
+}
+
+.proofs-background-card{
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+.indian-tourists-background-div{
+    height: 50vh;
+    width: 45vw;
+    border: 2px solid gold;
+}
+
+.indian-tourists{
+    position: relative;
+    border: 2px solid white;
+}
+
+.foreign-tourists-background-div{
+    height: 50vh;
+    width: 45vw;
+    border: 2px solid gold;
+}
+.foreign-tourists{
+    position: relative;
+    
+}
+
+.footer{
+    height: 23%;
+    width: 100vw;
+    text-align: center;
+display: flex;
+justify-content: space-around;
+}
+
+.one{
+    height: 100%;
+    width: 30%;
+    color:white;
+background-color: black;
+}
+.details-button{
+    height: 30px;
+    width: 180px;
+    background-image: linear-gradient(orange,white);
+    color: black;
+border-radius: 5px;
+font-weight: bolder;
+}
+
+.social-media-partners:hover{
+    color: gold;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px white;
+    text-decoration: underline;
+}
+
+
+@keyframes image{
+    100%{
+        height: 100%;
+        width: 100%;
+    }
+}
+.image{
+    animation: image 3s linear infinite;
+}
+
+.contact{
+    display: none;
+}
+
+.contact:target{
+    display: block;
+}
+
+.mpv{
+    display: none;
+}
+.mpv:target{
+    display: block;
+}
+
+.suv{
+    display: none;
+}
+.suv:target{
+display: block;
+}
+
+.hatchback{
+    display: none;
+}
+.hatchback:target{
+    display: block;
+}
+
+.self-driven-cars-section{
+    display: none;
+}
+.self-driven-cars-section:target{
+    display: block;
+}
+
+.indian{
+    height: 20vh;
+    width: 20vw;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    background-color: black;
+    color: white;
+    text-align: start;
+    padding: 4px;
+    border-radius: 5px;
+    font-weight: bolder;
+    }
+
+
+    .indian:hover{
+        box-shadow: 2px 2px 2px 7px white;
+    }
+
+
+   
